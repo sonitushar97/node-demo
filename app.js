@@ -1,5 +1,1 @@
-const expresss = require('express');
-const app = expresss();
-var port = process.env.PORT || 3000;
-app.get('/',(req, res)=> res.send('Hello World !!'));
-app.listen (port, () => console.log('server is running on port'+port));
+<h1>welcome to node App>/<h1>
